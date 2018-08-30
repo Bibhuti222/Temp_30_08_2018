@@ -9,6 +9,7 @@ public class Temp
 	public void method()
 	{
 		System.out.println("Maven_GitHUb_Configuration");
+		System.out.println("Maven_GitHUb_Update");
 		FirefoxDriver d= new FirefoxDriver();
 		d.get("https://www.google.co.in/");
 		System.out.println(d.getTitle());
